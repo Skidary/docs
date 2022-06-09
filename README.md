@@ -1,2 +1,2 @@
-# docs
+# Skidary API Documentation
 To be announced...
